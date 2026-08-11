@@ -48,7 +48,7 @@ As entregas foram mapeadas sob a perspectiva de uma profissional *non-tech*, com
 ---
 
 ### 👤 **Desafio [Parte 2]: Mapeamento de Carreira | Revelador X‑Tech: Descubra-se**
-* **O Produto:** Modelagem de um processo inteligente que utiliza duas IAs conectadas em sequência (Entrevistador e Mentor) para realizar um diagnóstico profissional e estruturar planos de carreira.
+* **O Produto:** Modelagem de um processo inteligente que utiliza duas IAs complementares conectadas em sequência (Entrevistador e Mentor) para realizar um diagnóstico profissional e estruturar planos de carreira.
 * **Visão Estratégica & Foco de Mercado:**
   * *Conexão Segura de Informações:* Criação de um método de transferência de dados (Payload estruturado) que garante consistência total de contexto entre os agentes, evitando perda de informação.
   * **Inteligência & Matriz de Decisão:** O grande diferencial estratégico está nas regras de negócio e no peso do algoritmo interno (40% Match Técnico, 30% Comportamental e 30% Viabilidade Real):
