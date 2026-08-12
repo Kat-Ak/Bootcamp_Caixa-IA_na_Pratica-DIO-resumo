@@ -47,7 +47,7 @@ Observação: cada desafio terá o seu repositório individual com o enunciado r
 ## 🛠️ Soluções desenvolvidas & modelagem de processos
 
 ### 💵 **Desafio [Parte 1]: App de Finanças Pessoais por chat**
-* **O Produto:** Planejamento e estruturação de um modelo de aplicativo (MVP) para a organização financeira pessoal através de conversas naturais (texto/voz), sem código.
+> Planejamento e estruturação de um modelo de aplicativo (MVP) para a organização financeira pessoal através de conversas naturais (texto/voz), sem código.
 * **Visão Estratégica & Foco de Mercado:**
   * *Simplificação de Processos:* Estruturação da lógica para que a IA entenda frases comuns do dia a dia (“gastei R$45 no mercado”) e classifique os dados automaticamente, eliminando a necessidade de preenchimento manual de planilhas.
   * *Prevenção de Erros:* Criação de fluxos de confirmação simples para mitigar erros, ambiguidades e respostas vagas da ferramenta.
