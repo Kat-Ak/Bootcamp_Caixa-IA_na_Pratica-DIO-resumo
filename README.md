@@ -20,20 +20,26 @@ As entregas foram mapeadas sob a perspectiva de uma profissional *non-tech*, com
 
 ---
 
-## 🗂️ Estrutura deste Bootcamp (Íídice prático)
- </div>
-├── Desafio [parte 1] | 💵 App de Finanças Pessoais | Vibe Coding com IA 🤖<br>
- |    &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp └── 📖 README.md<br>
-|<br>                        
-├── Desafio [parte 2] | 👤 Mapeamento de Carreira | revelador x‑tech<br>
-  | &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp ├── 🤖 agent 1 | IA entrevistador (diagnóstico x-tech) | seu simulador inteligente de entrevistas<br>
-  | &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp ├── 🤖 agent 2 | IA mentor de carreira (o arquiteto x-tech) | descubra seu futuro em tech<br>
-  | &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp └── 📖 README.md<br>
-  |<br>    
-└── Desafio [parte 3 | final] | 🗺️ Mapa de Habilidades<br>
-   &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp  └── 📖 README.md<br>
-       <br>                                      
-> Observação: cada desafio terá o seu repositório individual com o enunciado resumido, prompts finais, evidências (prints) e entregáveis.
+## 🗂️ Estrutura deste Bootcamp (índice prático)
+</div>
+
+```texto
+🏦 Caixa | IA na Prática (finanças x carreira)
+   ├── Desafio [Parte 1] | App [Finanças Pessoais por chat (Vibe Coding com IA)] 💵
+   |                      |
+   |                      └── 📖 README.md
+   |                      
+   ├── Desafio [Parte 2] | Mapeamento de Carreira [Revelador X-Tech]👤
+   |                      ├── agent 1 | IA entrevistador (diagnóstico x-tech) | seu simulador inteligente de entrevistas 🤖
+   |                      ├── agent 2 | IA mentor de carreira (o arquiteto x-tech) | descubra seu futuro em tech 🤖
+   |                      └── 📖 README.md
+   |                      
+   └── Desafio [Parte Final] | Mapa de Habilidades 🗺️
+                              |
+                              └── 📖 README.md
+```                               
+> [!NOTE]
+Observação: cada desafio terá o seu repositório individual com o enunciado resumido, prompts finais, evidências (prints) e entregáveis.
 
 ---
 
