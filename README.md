@@ -24,7 +24,8 @@ As entregas foram mapeadas sob a perspectiva de uma profissional *non-tech*, com
 </div>
 
 ```texto
-🏦 Caixa | IA na Prática (finanças x carreira)
+🏦 Bootcamp Caixa | IA na Prática (finanças x carreira)
+   |
    ├── Desafio [Parte 1] | App [Finanças Pessoais por chat (Vibe Coding com IA)] 💵
    |                      |
    |                      └── 📖 README.md
